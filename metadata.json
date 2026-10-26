@@ -1,0 +1,6 @@
+{
+  "name": "NiveshMarg - India Investment Planner & Visualizer",
+  "description": "Visual, beginner-friendly Indian investment planning platform. Explore SIPs, Bank FDs, Post Office Bachat Ghar, and Stocks with interactive profit calculators, tailored income allocation, and AI advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
